@@ -19,7 +19,7 @@
     "babel-runtime": "^6.26.0",
     "basic-auth": "^2.0.1",
     "bootstrap-filestyle": "^1.2.1",
-    "bson": "^3.0.2",
+    "bson": "^4.0.2",
     "cheerio": "0.22.0",
     "codemirror": "^5.42.0",
     "cross-spawn": "^6.0.5",
